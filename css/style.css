@@ -359,7 +359,7 @@ footer p{
     }
 
     .content-info{
-        padding-bottom: 0rem !important;
+        padding-bottom: 1rem !important;
     }
 
     .tittle-main1{
@@ -390,6 +390,7 @@ footer p{
 
     .filtro{
         font-size: 20px;
+        margin-right: 0.5rem;
     }
 }
 
@@ -435,6 +436,7 @@ footer p{
     .filtro{
         font-size: 14px;
         align-self: center;
+        margin-right: 0.4rem;
     }
     
 }
